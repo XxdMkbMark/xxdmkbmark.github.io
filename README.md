@@ -10,4 +10,4 @@
 [点击前往](http://discord.com)
 ## PyOS中转站
 [就是本站](http://就是本站.io)
-### git.pyos.top
+###### ©2023 git.pyos.top
