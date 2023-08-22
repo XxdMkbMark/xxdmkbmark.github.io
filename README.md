@@ -10,4 +10,8 @@
 [点击前往](http://discord.com)
 ## PyOS中转站
 [就是本站](http://就是本站.io)
+## PyOS爱发电主页
+[点击前往](https://afdian.net/a/PythonOS)
+## PyOS Crowdin主页
+[点击前往](https://zh.crowdin.com/project/pyos)
 ###### ©2023 git.pyos.top
