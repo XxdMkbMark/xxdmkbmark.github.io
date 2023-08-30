@@ -14,4 +14,6 @@
 [点击前往](https://afdian.net/a/PythonOS)
 ## PyOS Crowdin主页
 [点击前往](https://zh.crowdin.com/project/pyos)
+## PyOS Github页面
+[点击前往](https://github.com/XxdMkbMark/PyOS)
 ###### ©2023 git.pyos.top
